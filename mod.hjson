@@ -1,0 +1,6 @@
+name: wind3
+minGameVersion: 160
+author: "Anuke (real)"
+hidden: true
+iosCompatible: true
+version: 1.0.0
